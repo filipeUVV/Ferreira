@@ -5,20 +5,20 @@
   <body>
     <a href = "https://www.google.com.br/maps/@-20.3781104,-40.3196491,115m/data=!3m1!1e3 "> Mapa - Bairro </a>
   
-  Vila Velha - ES
+  <p>Vila Velha - ES</p>
 
-  Email - lipe_toddy@hotmail.com   
+ <p> Email - lipe_toddy@hotmail.com</p>
   
-  telefone (27)992451073
+  <p>telefone (27)992451073</p>
   
   <h1 style="background-color:LightGray;">Curso Extras</h1>
-  Educacao CEIC itaparica - ensino medio completo </p>
-  Senac - curso tecnico de informatica 2013</p>
-  Senai vitoria - curso tecnico de eletrica 2015</p>
+  <p>Educacao CEIC itaparica - ensino medio completo </p>
+  <p>Senac - curso tecnico de informatica 2013</p>
+  <p>Senai vitoria - curso tecnico de eletrica 2015</p>
   
   <h1 style="background-color:DodgerBlue;">Percurso Profissional</h1> 
  
- Empresa ArcelorMittal Tubarão - Auxiliar Bombeiro Industrial 2014 </p>
+ <p>Empresa ArcelorMittal Tubarão - Auxiliar Bombeiro Industrial 2014 </p>
   
   <h1 style="background-color:DodgerBlue;">Percurso Academico</h1> 
 
