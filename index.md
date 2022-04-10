@@ -1,12 +1,14 @@
 <h1 style="background-color:DodgerBlue;">Filipe Ferreira Correia</h1>
 
 <h1 style="background-color:DodgerBlue;">Dados de Contacto</h1> 
-  </head>
   <body>
     <a href = "https://www.google.com.br/maps/@-20.3781104,-40.3196491,115m/data=!3m1!1e3 "> Mapa - Bairro </a>
-<p style="background-color:DodgerBlue;"> Vila Velha - ES </p>
-  <p style="background-color:DodgerBlue;"> Email - lipe_toddy@hotmail.com </p>
-  <p style="background-color:DodgerBlue;"> telefone (27)992451073 </p>
+<div class="w3-card w3-red">
+  <p>Vila Velha - ES </p>
+</div> 
+  Email - lipe_toddy@hotmail.com   
+  
+  telefone (27)992451073
   
   <h1 style="background-color:LightGray;">Curso Extras</h1>
   <p style="background-color:LightGray;"> Educaçao CEIC itaparica - ensino medio completo </p>
